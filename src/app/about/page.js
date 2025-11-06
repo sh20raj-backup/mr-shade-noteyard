@@ -7,7 +7,7 @@ export const metadata = {
   openGraph: {
     title: 'About Us | NoteYard',
     description: 'Learn about NoteYard - your trusted source for Sargam, Harmonium, and Flute notes.',
-    url: 'https://noteyard.pages.dev/about'
+    url: 'https://noteyard.30tools.com/about'
   }
 };
 

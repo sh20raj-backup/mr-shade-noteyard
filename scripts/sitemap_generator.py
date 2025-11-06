@@ -2,7 +2,7 @@ import os
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
 # Config
-BASE_URL = "https://noteyard.pages.dev"  # Base URL of the website
+BASE_URL = "https://noteyard.30tools.com"  # Base URL of the website
 url = BASE_URL
 SONGS_DIR = "songs"  # Directory containing song markdown files
 OUTPUT_FILE = "public/sitemap.xml"  # Output location

@@ -6,7 +6,7 @@ export const metadata = {
   openGraph: {
     title: 'Contact Us | NoteYard',
     description: 'Get in touch with NoteYard team for any questions, suggestions, or feedback.',
-    url: 'https://noteyard.pages.dev/contact'
+    url: 'https://noteyard.30tools.com/contact'
   }
 };
 
@@ -38,7 +38,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <p className="text-sm font-medium text-gray-900 dark:text-white">Email</p>
-                  <p className="text-sm text-gray-600 dark:text-gray-300">support@noteyard.pages.dev</p>
+                  <p className="text-sm text-gray-600 dark:text-gray-300">support@noteyard.30tools.com</p>
                 </div>
               </div>
               <div className="flex items-center space-x-4">

@@ -6,7 +6,7 @@ export const metadata = {
   openGraph: {
     title: 'Terms of Service | NoteYard',
     description: 'Read our terms of service to understand the rules and guidelines for using NoteYard.',
-    url: 'https://noteyard.pages.dev/terms'
+    url: 'https://noteyard.30tools.com/terms'
   }
 };
 
@@ -64,7 +64,7 @@ export default function TermsPage() {
 
         <h2>9. Contact Information</h2>
         <p>
-          If you have any questions about these Terms, please contact us at support@noteyard.pages.dev.
+          If you have any questions about these Terms, please contact us at support@noteyard.30tools.com.
         </p>
       </div>
     </div>

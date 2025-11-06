@@ -6,7 +6,7 @@ export const metadata = {
   openGraph: {
     title: 'Privacy Policy | NoteYard',
     description: 'Learn how NoteYard collects, uses, and protects your personal information.',
-    url: 'https://noteyard.pages.dev/privacy'
+    url: 'https://noteyard.30tools.com/privacy'
   }
 };
 
@@ -89,7 +89,7 @@ export default function PrivacyPage() {
 
         <h2>Contact Us</h2>
         <p>
-          If you have questions about this Privacy Policy, please contact us at privacy@noteyard.pages.dev.
+          If you have questions about this Privacy Policy, please contact us at privacy@noteyard.30tools.com.
         </p>
 
         <p className="mt-8">

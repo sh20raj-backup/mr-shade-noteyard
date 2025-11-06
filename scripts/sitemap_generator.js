@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Config
-const BASE_URL = "https://noteyard.pages.dev";  // Base URL of the website
+const BASE_URL = "https://noteyard.30tools.com";  // Base URL of the website
 const SONGS_DIR = "songs";  // Directory containing song markdown files
 const OUTPUT_FILE = "public/sitemap.xml";  // Output location
 const SUPPORTED_FORMATS = new Set([".md"]);
